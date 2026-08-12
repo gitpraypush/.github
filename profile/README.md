@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Watch the video](https://github.com/user-attachments/assets/fa85d688-90a1-4a46-b4b9-b9663fdb4082)](https://github.com/user-attachments/assets/ea56635c-1fa3-4f68-a518-ddf3efaa40e7)
+<img width="2816" height="1536" alt="github-gitpushpray-animate-v2-mini" src="https://github.com/user-attachments/assets/1fdbdabf-cd75-4a3b-8363-be707e98d40a" />
 
 </div>
 
