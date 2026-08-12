@@ -8,7 +8,7 @@
 
 <div align="center">
 
-*/* CODE, PRAY, PUSH, HOPE FOR THE BEST *\/*
+*/* CODE, PUSH, PRAY, HOPE FOR THE BEST *\/*
 
 **Deployed on Fridays. Debugged on weekends.**
 
